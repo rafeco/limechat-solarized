@@ -28,7 +28,7 @@ body {}
 
 .message[type=privmsg] {}
 .message[type=notice] { color: #859900; }   /* green */
-.message[type=action] { color: #b58900;}    /* yellow */
+.message[type=action] { color: #93a1a1;}    /* base1 */
 
 .message[type=system], .message[type=join], .message[type=part], .message[type=kick],
 .message[type=quit], .message[type=kill], .message[type=nick], .message[type=mode],

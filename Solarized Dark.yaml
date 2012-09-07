@@ -19,10 +19,10 @@ member-list:
   selected:
     color: '#d33682'               # magenta
     background:
-      top-line-color: '#fdf6e3'    # base3
-      bottom-line-color: '#fdf6e3' # base3
-      top-color: '#fdf6e3'         # base3
-      bottom-color: '#fdf6e3'      # base3
+      top-line-color: '#002b36'    # base00
+      bottom-line-color: '#002b36' # base00
+      top-color: '#002b36'         # base00
+      bottom-color: '#002b36'      # base00
 server-tree:
   font-family: 'Menlo'
   font-size: 12.0
